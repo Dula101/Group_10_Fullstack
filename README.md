@@ -1,4 +1,4 @@
-# Please find out who tested their Githun contributions below
+# Please find out who tested their Github contributions below
 Checking for contribution
   
 
