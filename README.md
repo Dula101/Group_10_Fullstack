@@ -1,7 +1,13 @@
-# Please find out who tested their Github contributions below
-Checking for contribution
-  
+# 🌟 GitHub Contribution Verification
 
+We checked who has successfully tested their GitHub contributions.  
+Here are the results:
 
-samudi-done 
-  
+---
+
+## 🔍 **Contribution Status**
+
+| 👤 Member     | 🔎 Status                |
+| ------------- | ------------------------ |
+| 🟢 **Samudi** | ✅ Contribution Verified |
+| 🟢 **Kavidu** | ✅ Contribution Verified |
